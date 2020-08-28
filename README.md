@@ -1,1 +1,0 @@
-A random git repo to practice git commands between my local repo and remote git repo.
