@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("This is the bye branch 23. \n");
+    printf("Merge branch bye into master. \n");
 }
